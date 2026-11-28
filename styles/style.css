@@ -4,26 +4,26 @@ body{
     text-decoration: none;
 }
 
-main {
+main{
     margin-left: 20px;
     margin-right: 20px;
 }
-a {
+a{
     color:inherit;
 
 }
 
-.header {
+.header{
     text-align: center;
 }
 
-.food-img {
+.food-img{
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-.navbar {
+.navbar{
     overflow: hidden;
     bottom: 0;
     width: 100%;
@@ -36,7 +36,7 @@ a {
     overflow: hidden;
 }
 
-.navbar a {
+.navbar a{
     color: white;
     text-decoration: none;
     padding: 15px;
@@ -44,11 +44,11 @@ a {
     text-align: center;
 }
 
-.navbar a:hover {
+.navbar a:hover{
     background-color: rgb(53, 51, 41);
 }
 
-.navbar li {
+.navbar li{
     float:left;
 }
 
